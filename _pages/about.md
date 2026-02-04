@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Pengfei Bai / 白鹏飞"
 author_profile: true
 redirect_from: 
   - /about/
