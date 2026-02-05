@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 Website construction ongoing!
+------
 
-Thank you for your visit.
+Hello World.
 ======
-This is just a template
-
+How to prove is this me
