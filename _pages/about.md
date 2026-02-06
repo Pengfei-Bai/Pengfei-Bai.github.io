@@ -12,4 +12,3 @@ Website construction ongoing!
 
 Hello World.
 ======
-How to prove is this me
