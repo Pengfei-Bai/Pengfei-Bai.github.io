@@ -3,6 +3,7 @@ title: "Comparative proteomic profiling of receptor kinase signaling reveals key
 collection: publications
 category: manuscripts
 permalink: /publication/2026-ERECTA-TbID
+excerpt: 'A proteomic atlas of ERECTA signaling network in stomatal development.'
 date: 2026-03-25
 venue: 'Science Advances'
 paperurl: 'https://doi.org/10.1126/sciadv.aeb6464'
