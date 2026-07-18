@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Template_Usefor_future
 excerpt: 'This paper does not exist yet.'
-date: Future
+date: 2046-01-01
 venue: 'Future'
 paperurl: 'https://academicpages.github.io/files/paper2.pdf'
 ---
