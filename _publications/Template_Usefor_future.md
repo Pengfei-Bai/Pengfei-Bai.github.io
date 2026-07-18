@@ -13,5 +13,5 @@ citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 
 
 ## Hello from the Future.
 It has been such an amazing journey looking back all the way. 
-I feel blessed to still be working in this field, 
-having the chance to advance science in so many different ways.
+I feel blessed to still be working in this field, having the chance to advance science in so many different ways.
+BTW, we made it with all our knowledge to cure hunger, poverty, and pain. 
