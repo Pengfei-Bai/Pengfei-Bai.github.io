@@ -3,7 +3,6 @@ title: "Comparative proteomic profiling of receptor kinase signaling reveals key
 collection: publications
 category: manuscripts
 permalink: /publication/2026-ERECTA-TbID
-excerpt: 'we provide a proteomic atlas of the ERECTA signaling network and demonstrate that timely removal of receptor kinase by the endocytosis machinery is essential for active signal transduction enforcing stomatal patterning'
 date: 2026-03-25
 venue: 'Science Advances'
 paperurl: 'https://doi.org/10.1126/sciadv.aeb6464'
