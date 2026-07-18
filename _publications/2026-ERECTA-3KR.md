@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2026-ERECTA-3KR
 excerpt: 'K63-linked ubiquitination of ERECTA drives receptor endocytosis，ensuring proper stomatal patterning signals'
 date: 2026-04-03
-venue: 'Journal 1'
+venue: 'New Phytologist'
 paperurl: 'https://doi.org/10.1111/nph.71151'
 ---
 
